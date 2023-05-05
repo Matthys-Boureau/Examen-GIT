@@ -2,7 +2,7 @@
 Réponse : a, b, c, d
 
 2) Git est un gestionnaire de version décentralisé
-
+Réponse : Vrai
 
 3) Quelle commande permet d'initialiser son projet dans Git Bash ?
 
