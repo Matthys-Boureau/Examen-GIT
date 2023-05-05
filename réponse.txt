@@ -5,7 +5,7 @@ Réponse : a, b, c, d
 Réponse : Vrai
 
 3) Quelle commande permet d'initialiser son projet dans Git Bash ?
-
+Réponse : git init
 
 4) Quelles sont les trois zones locales majeures dans Git ?
 
