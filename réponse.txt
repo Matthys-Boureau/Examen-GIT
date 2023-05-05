@@ -1,0 +1,38 @@
+1) A quoi sert un gestionnaire de versions ?
+Réponse : a, b, c, d
+
+2) Git est un gestionnaire de version décentralisé
+
+
+3) Quelle commande permet d'initialiser son projet dans Git Bash ?
+
+
+4) Quelles sont les trois zones locales majeures dans Git ?
+
+
+5) Vous avez créé votre dépôt distant sur GitHub, que l'on appellera
+monDepotDistant, et vous souhaitez le lier avec votre dépôt local
+sur Git. DEP représente le nom court qui sera utilisé pour appeler
+le dépôt.
+Quelle ligne de commande devez-vous taper ?
+
+
+6) Maintenant que votre dépôt distant est lié à votre dépôt local,
+vous allez devoir dupliquer son contenu en local. Pour ce faire,
+nous devons utiliser
+
+
+7) Je suis sur ma Branch1 et je viens d’ajouter un fichier "File2.txt".
+Je change d’avis : je veux finalement ajouter mon fichier à une
+nouvelle branche, "BranchFile". Que dois-je faire ?
+
+
+8) git commit --amend -m "Test"
+Cette commande permet de :
+
+
+9) Quelle est la différence entre git revert et git reset?
+
+
+10) Je souhaite savoir qui a touché à une ligne en particulier dans le
+fichier test.html. Quelle commande vais-je devoir exécuter ?
