@@ -8,7 +8,7 @@ Réponse : Vrai
 Réponse : git init
 
 4) Quelles sont les trois zones locales majeures dans Git ?
-
+Réponse : A , C , D
 
 5) Vous avez créé votre dépôt distant sur GitHub, que l'on appellera
 monDepotDistant, et vous souhaitez le lier avec votre dépôt local
